@@ -1,4 +1,4 @@
-# rc-bug-reporter
+# slack-bug-reporter
 
 > Webapp for filling out a form and generating a slack message to send for reporting a bug in slack
 
